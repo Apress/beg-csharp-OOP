@@ -1,0 +1,9 @@
+c:\users\dan\documents\visual studio 2010\Projects\Activity6_1\Activity6_1\bin\Debug\Activity6_1.exe
+c:\users\dan\documents\visual studio 2010\Projects\Activity6_1\Activity6_1\bin\Debug\Activity6_1.pdb
+c:\users\dan\documents\visual studio 2010\Projects\Activity6_1\Activity6_1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\dan\documents\visual studio 2010\Projects\Activity6_1\Activity6_1\obj\x86\Debug\Activity6_1.frmLogin.resources
+c:\users\dan\documents\visual studio 2010\Projects\Activity6_1\Activity6_1\obj\x86\Debug\Activity6_1.Properties.Resources.resources
+c:\users\dan\documents\visual studio 2010\Projects\Activity6_1\Activity6_1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\dan\documents\visual studio 2010\Projects\Activity6_1\Activity6_1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\dan\documents\visual studio 2010\Projects\Activity6_1\Activity6_1\obj\x86\Debug\Activity6_1.exe
+c:\users\dan\documents\visual studio 2010\Projects\Activity6_1\Activity6_1\obj\x86\Debug\Activity6_1.pdb

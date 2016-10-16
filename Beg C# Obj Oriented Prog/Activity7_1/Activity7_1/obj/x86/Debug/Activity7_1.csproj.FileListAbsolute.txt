@@ -1,0 +1,27 @@
+c:\documents and settings\c-danclar\my documents\visual studio 2010\Projects\Activity7_1\Activity7_1\bin\Debug\Activity7_1.exe
+c:\documents and settings\c-danclar\my documents\visual studio 2010\Projects\Activity7_1\Activity7_1\bin\Debug\Activity7_1.pdb
+c:\documents and settings\c-danclar\my documents\visual studio 2010\Projects\Activity7_1\Activity7_1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\c-danclar\my documents\visual studio 2010\Projects\Activity7_1\Activity7_1\obj\x86\Debug\Activity7_1.Properties.Resources.resources
+c:\documents and settings\c-danclar\my documents\visual studio 2010\Projects\Activity7_1\Activity7_1\obj\x86\Debug\Activity7_1.TellerForm.resources
+c:\documents and settings\c-danclar\my documents\visual studio 2010\Projects\Activity7_1\Activity7_1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\c-danclar\my documents\visual studio 2010\Projects\Activity7_1\Activity7_1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\c-danclar\my documents\visual studio 2010\Projects\Activity7_1\Activity7_1\obj\x86\Debug\Activity7_1.exe
+c:\documents and settings\c-danclar\my documents\visual studio 2010\Projects\Activity7_1\Activity7_1\obj\x86\Debug\Activity7_1.pdb
+C:\Users\Dan\Documents\Visual Studio 2010\Projects\Activity7_1\Activity7_1\obj\x86\Debug\Activity7_1.exe
+C:\Users\Dan\Documents\Visual Studio 2010\Projects\Activity7_1\Activity7_1\obj\x86\Debug\Activity7_1.pdb
+C:\Users\Dan\Documents\Visual Studio 2010\Projects\Activity7_1\Activity7_1\bin\Debug\Activity7_1.exe
+C:\Users\Dan\Documents\Visual Studio 2010\Projects\Activity7_1\Activity7_1\bin\Debug\Activity7_1.pdb
+C:\Users\Dan\Documents\Visual Studio 2010\Projects\Activity7_1\Activity7_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Visual Studio 2010\Projects\Activity7_1\Activity7_1\obj\x86\Debug\Activity7_1.Properties.Resources.resources
+C:\Users\Dan\Documents\Visual Studio 2010\Projects\Activity7_1\Activity7_1\obj\x86\Debug\Activity7_1.TellerForm.resources
+C:\Users\Dan\Documents\Visual Studio 2010\Projects\Activity7_1\Activity7_1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dan\Documents\Visual Studio 2010\Projects\Activity7_1\Activity7_1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Dan\Documents\Activity7_1\Activity7_1\obj\x86\Debug\Activity7_1.exe
+C:\Users\Dan\Documents\Activity7_1\Activity7_1\obj\x86\Debug\Activity7_1.pdb
+C:\Users\Dan\Documents\Activity7_1\Activity7_1\bin\Debug\Activity7_1.exe
+C:\Users\Dan\Documents\Activity7_1\Activity7_1\bin\Debug\Activity7_1.pdb
+C:\Users\Dan\Documents\Activity7_1\Activity7_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dan\Documents\Activity7_1\Activity7_1\obj\x86\Debug\Activity7_1.Properties.Resources.resources
+C:\Users\Dan\Documents\Activity7_1\Activity7_1\obj\x86\Debug\Activity7_1.TellerForm.resources
+C:\Users\Dan\Documents\Activity7_1\Activity7_1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Dan\Documents\Activity7_1\Activity7_1\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,18 @@
+C:\Documents and Settings\drclark\my documents\visual studio 2010\Projects\Activity7_2Starter\Activity7_2Starter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\drclark\my documents\visual studio 2010\Projects\Activity7_2Starter\Activity7_2Starter\obj\x86\Debug\Activity7_2Starter.Properties.Resources.resources
+C:\Documents and Settings\drclark\my documents\visual studio 2010\Projects\Activity7_2Starter\Activity7_2Starter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\drclark\my documents\visual studio 2010\Projects\Activity7_2Starter\Activity7_2Starter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\drclark\my documents\visual studio 2010\Projects\Activity7_2Starter\Activity7_2Starter\bin\Debug\Activity7_2Starter.exe
+C:\Documents and Settings\drclark\my documents\visual studio 2010\Projects\Activity7_2Starter\Activity7_2Starter\bin\Debug\Activity7_2Starter.pdb
+C:\Documents and Settings\drclark\my documents\visual studio 2010\Projects\Activity7_2Starter\Activity7_2Starter\obj\x86\Debug\Activity7_2Starter.TellerForm.resources
+C:\Documents and Settings\drclark\my documents\visual studio 2010\Projects\Activity7_2Starter\Activity7_2Starter\obj\x86\Debug\Activity7_2Starter.exe
+C:\Documents and Settings\drclark\my documents\visual studio 2010\Projects\Activity7_2Starter\Activity7_2Starter\obj\x86\Debug\Activity7_2Starter.pdb
+C:\APress\StarterFiles\Activity7_2Starter\Activity7_2Starter\obj\x86\Debug\Activity7_2Starter.exe
+C:\APress\StarterFiles\Activity7_2Starter\Activity7_2Starter\obj\x86\Debug\Activity7_2Starter.pdb
+C:\APress\StarterFiles\Activity7_2Starter\Activity7_2Starter\bin\Debug\Activity7_2Starter.exe
+C:\APress\StarterFiles\Activity7_2Starter\Activity7_2Starter\bin\Debug\Activity7_2Starter.pdb
+C:\APress\StarterFiles\Activity7_2Starter\Activity7_2Starter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\APress\StarterFiles\Activity7_2Starter\Activity7_2Starter\obj\x86\Debug\Activity7_2Starter.Properties.Resources.resources
+C:\APress\StarterFiles\Activity7_2Starter\Activity7_2Starter\obj\x86\Debug\Activity7_2Starter.TellerForm.resources
+C:\APress\StarterFiles\Activity7_2Starter\Activity7_2Starter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\APress\StarterFiles\Activity7_2Starter\Activity7_2Starter\obj\x86\Debug\GenerateResource.write.1.tlog

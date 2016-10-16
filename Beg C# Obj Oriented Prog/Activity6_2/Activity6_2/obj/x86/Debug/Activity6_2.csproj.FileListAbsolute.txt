@@ -1,0 +1,18 @@
+c:\users\dan\documents\visual studio 2010\Projects\Activity6_2\Activity6_2\bin\Debug\Activity6_2.exe
+c:\users\dan\documents\visual studio 2010\Projects\Activity6_2\Activity6_2\bin\Debug\Activity6_2.pdb
+c:\users\dan\documents\visual studio 2010\Projects\Activity6_2\Activity6_2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\dan\documents\visual studio 2010\Projects\Activity6_2\Activity6_2\obj\x86\Debug\Activity6_2.Form1.resources
+c:\users\dan\documents\visual studio 2010\Projects\Activity6_2\Activity6_2\obj\x86\Debug\Activity6_2.Properties.Resources.resources
+c:\users\dan\documents\visual studio 2010\Projects\Activity6_2\Activity6_2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\dan\documents\visual studio 2010\Projects\Activity6_2\Activity6_2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\dan\documents\visual studio 2010\Projects\Activity6_2\Activity6_2\obj\x86\Debug\Activity6_2.exe
+c:\users\dan\documents\visual studio 2010\Projects\Activity6_2\Activity6_2\obj\x86\Debug\Activity6_2.pdb
+C:\APress\StarterFiles\Activity6_2\Activity6_2\obj\x86\Debug\Activity6_2.exe
+C:\APress\StarterFiles\Activity6_2\Activity6_2\obj\x86\Debug\Activity6_2.pdb
+C:\APress\StarterFiles\Activity6_2\Activity6_2\bin\Debug\Activity6_2.exe
+C:\APress\StarterFiles\Activity6_2\Activity6_2\bin\Debug\Activity6_2.pdb
+C:\APress\StarterFiles\Activity6_2\Activity6_2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\APress\StarterFiles\Activity6_2\Activity6_2\obj\x86\Debug\Activity6_2.EmployeeInfoForm.resources
+C:\APress\StarterFiles\Activity6_2\Activity6_2\obj\x86\Debug\Activity6_2.Properties.Resources.resources
+C:\APress\StarterFiles\Activity6_2\Activity6_2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\APress\StarterFiles\Activity6_2\Activity6_2\obj\x86\Debug\GenerateResource.write.1.tlog
